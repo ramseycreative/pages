@@ -9,6 +9,7 @@ strike{
 
 .specialContainer {
   width: 800px;
+  width: auto;
   background-color: #ffffff;
   color: #000000;
   padding: 20px;
@@ -115,9 +116,9 @@ font {
  }
 
 .linkButton {
-  background-color: #194D8D;
+  background-color: #22609c;
   color: #ffffff;
-  background-color: #033057;
+  background-color: #1d5386;
   text-decoration: none;
   padding: 10px 100px;
   display: inline-block;
